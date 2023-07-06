@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\bin\Debug\Бережливый стоматолог.exe.config
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\bin\Debug\Бережливый стоматолог.exe
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\bin\Debug\Бережливый стоматолог.pdb
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый стоматолог.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый_стоматолог.Form1.resources
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый_стоматолог.Properties.Resources.resources
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый стоматолог.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый стоматолог.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый стоматолог.exe
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый стоматолог.pdb
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый_стоматолог.AuthorsForm.resources
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый_стоматолог.AgeForm.resources
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый_стоматолог.ToothForm.resources
+C:\Users\ACER\source\repos\Бережливый стоматолог\Бережливый стоматолог\obj\Debug\Бережливый_стоматолог.ShowData.resources
